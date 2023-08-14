@@ -2,7 +2,8 @@
 This repository is basically a showcase of my Data analysts skills
 
 I ) Power BI Project 
-https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/e6b75675-cf64-4525-ac77-d4f0180e9ed9
+
+Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/e6b75675-cf64-4525-ac77-d4f0180e9ed9
 
 Description : In this project I have build a dashboard to analyse a survey-type data that has 
 been conducted by a Marketing team of Codex which is a enery-drink manufacturing company 
@@ -16,7 +17,8 @@ So , I have use this data to analyse . This is challenge that I have accepted wh
 Special Thanks to Dhaval Patel sir and Hemanand Vadivel Sir
 
 II) Excel Project :
-https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/5c263fbb-0932-4605-8084-d8fb7d7c1077
+
+Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/5c263fbb-0932-4605-8084-d8fb7d7c1077
 
 Description : In this project I have build a dashboard to analyse a sales data 
 
@@ -29,5 +31,7 @@ year wise sales ,etc . So , that superstore get a overall idea of their business
 
 III) Tableau Project :
 
+Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/61c1cb06-8683-4a49-88f3-4cee4ec9ccb4
 
+Description : I have used tableau to analyse a sales data because to get the hands-on-experiance on tableau
 
