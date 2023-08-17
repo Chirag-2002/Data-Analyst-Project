@@ -6,7 +6,7 @@ I ) Power BI Project
 Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/e6b75675-cf64-4525-ac77-d4f0180e9ed9
 
 Description : In this project I have build a dashboard to analyse a survey-type data that has 
-been conducted by a Marketing team of Codex which is a enery-drink manufacturing company 
+been conducted by a Marketing team of Codex which is a energy-drink manufacturing company 
 
 Problem : Marketing Team of CodeX has conducted a survey among people to know more about their products 
 means : 
@@ -22,7 +22,7 @@ Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/a
 
 Description : In this project I have build a dashboard to analyse a sales data 
 
-Problem : I have collect the data of a superstore which solds that products like fruniture , technology ,etc 
+Problem : I have collect the data of a superstore which solds that products like furniture , technology ,etc 
 they have many branches in the region like East , west ,etc . 
 
 So , I have analyse a data to see the total profits , total revenue , profit across products , profit across branch, ,loss
