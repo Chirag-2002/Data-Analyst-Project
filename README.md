@@ -16,7 +16,7 @@ ii) At what price range people are buying? , etc
 So , I have use this data to analyse . This is challenge that I have accepted which is given by codebasic . 
 Special Thanks to Dhaval Patel sir and Hemanand Vadivel Sir
 
-II) Excel Project :
+II) Superstore Sales Performance Dashboard:
 
 Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/5c263fbb-0932-4605-8084-d8fb7d7c1077
 
@@ -29,7 +29,7 @@ So , I have analyse a data to see the total profits , total revenue , profit acr
 year wise sales ,etc . So , that superstore get a overall idea of their business
 
 
-III) Tableau Project :
+III) 	Superstore Sales Performance Dashboard :
 
 Video Preview Of Project : https://github.com/Chirag-2002/Data-Analyst-Project/assets/83218348/61c1cb06-8683-4a49-88f3-4cee4ec9ccb4
 
